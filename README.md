@@ -15,5 +15,5 @@ needs to be developed to count a number of vehicles.
 Download the [M6 Motorway](https://www.youtube.com/watch?v=PNCJQkvALVc) video and rename it as `video.mp4` and move it into the same directory with the source code and run as `python3 counter.py`
 
 
-
-
+## Explanation and short demonstration:
+See [Report](https://github.com/patoglu/vehicle_counter/Report.pdf) for the explanation. Here is a short [demo](https://www.youtube.com/watch?v=AHZzNdPqDv8)
