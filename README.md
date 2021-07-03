@@ -16,4 +16,4 @@ Download the [M6 Motorway](https://www.youtube.com/watch?v=PNCJQkvALVc) video an
 
 
 ## Explanation and short demonstration:
-See [Report](https://github.com/patoglu/vehicle_counter/Report.pdf) for the explanation. Here is a short [demo](https://www.youtube.com/watch?v=AHZzNdPqDv8)
+See [Report](https://github.com/patoglu/vehicle_counter/blob/main/Report.pdf) for the explanation. Here is a short [demo](https://www.youtube.com/watch?v=AHZzNdPqDv8)
